@@ -3,7 +3,7 @@
 <table>
   <tr>
     <th>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=filipszemraj&theme=tokyonight" alt="mystreak"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipszemraj&theme=tokyonight)
     </th>
     <th>
       
