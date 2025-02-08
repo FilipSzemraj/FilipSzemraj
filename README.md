@@ -44,17 +44,15 @@ I have a fully operational website running at **[flipdruk.pl](https://flipdruk.p
         <!-- Java -->
         <img width="10%" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
         <!-- Hyperledger Fabric -->
-        <img width="10%" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4f16-8017-091c0a152b61.png" alt="Hyperledger Fabric" title="Hyperledger Fabric"/>
+        <img width="10%" src="./hyperledger-fabric.jpg" alt="Hyperledger Fabric" title="Hyperledger Fabric"/>
         <!-- gRPC -->
-        <img width="10%" src="https://user-images.githubusercontent.com/25181517/192108889-8732a33c-9a26-4b18-bb4a-62e9e70d82b1.png" alt="gRPC" title="gRPC"/>
+        <img width="10%" src="./grpc.JPG" alt="gRPC" title="gRPC"/>
         <!-- REST API (Spring) -->
         <img width="10%" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot REST API"/>
         <!-- TypeScript -->
-        <img width="10%" src="https://user-images.githubusercontent.com/25181517/117447197-7a9e6980-af3d-11eb-89d2-8b3b65b74a12.png" alt="TypeScript" title="TypeScript"/>
+        <img width="10%" src="./typescript.JPG" alt="TypeScript" title="TypeScript"/>
         <!-- React -->
         <img width="10%" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
-        <!-- Fabric Gateway -->
-        <img width="10%" src="https://user-images.githubusercontent.com/25181517/192158896-61017a34b7e0-4e6e-bfa4-1cd8d309bd91.png" alt="Fabric Gateway" title="Fabric Gateway"/>
       </div>
     </td>
   </tr>
